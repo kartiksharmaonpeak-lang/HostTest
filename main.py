@@ -897,4 +897,4 @@ def handle_callback(callback):
             send(
                 chat_id,
                 "Send gift-code amount and number of uses:\n"
-        
+)
